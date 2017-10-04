@@ -1,4 +1,4 @@
-# encrypt an external USB drive
+# Arch Linux : encrypt an external USB drive
 
 Howto encrypt an external USB drive
 
